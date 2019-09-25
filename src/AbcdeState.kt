@@ -1,0 +1,1 @@
+class AbcdeState(override val index: Int, override val isFinal: Boolean) : State
